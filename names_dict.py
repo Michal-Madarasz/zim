@@ -1,6 +1,6 @@
 COLUMNS = (
            ("Temperature", "Temperatura"),
-           ("Nausea", "występowanie nudności"),
+           ("Nausea", "Występowanie nudności"),
            ("LumberPain", "Ból lędźwiowy"),
            ("ConUrine", "Parcie moczu (ciągła potrzeba oddawania moczu)"),
            ("MictPains", "Bóle mikcji"),
@@ -11,7 +11,7 @@ COLUMNS = (
 
 FEATURES = (
     ("Temperature", "Temperatura"),
-    ("Nausea", "występowanie nudności"),
+    ("Nausea", "Występowanie nudności"),
     ("LumberPain", "Ból lędźwiowy"),
     ("ConUrine", "Parcie moczu (ciągła potrzeba oddawania moczu)"),
     ("MictPains", "Bóle mikcji"),
